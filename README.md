@@ -1,0 +1,2 @@
+# postgresql-data-warehouse-project
+Building a modern data warehouse with PostgreSql server, including ETL processes, data modeling, and analytics
