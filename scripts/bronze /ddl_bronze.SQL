@@ -8,6 +8,10 @@ Script Pupose:
 	This script creates tables inn the 'bronze' schema, dropping existing tables
 	if they already exist.
 	Run this script to re-define the DDL structure of 'bronze' Tables
+
+
+Project Owner: AZAMBEK ANVAROV
+===============================================================================
  */
 
 
