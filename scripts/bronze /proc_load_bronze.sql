@@ -17,6 +17,8 @@
  	
  Usage Examples":
  	CALL bronze.load_bronze();
+
+Project Owner: AZAMBEK ANVAROV
 =========================================================================================
  */
 
