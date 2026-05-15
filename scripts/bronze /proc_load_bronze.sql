@@ -15,7 +15,7 @@
  	None.
  	This stored procedure does not accept any parameters or return any values.
  	
- Usage Examples":
+ Usage Examples:
  	CALL bronze.load_bronze();
 
 Project Owner: AZAMBEK ANVAROV
